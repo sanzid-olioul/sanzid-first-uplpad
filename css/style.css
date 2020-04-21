@@ -1,0 +1,31 @@
+body{
+    background: #cccccc;
+}
+
+.align{
+    padding: 20px 3rem 20px 3rem;
+}
+
+.contentbg{
+    background: #ffffff;
+    margin: 1rem;
+}
+.green{
+    background: #00ccff;
+    color: white; 
+}
+
+.success{
+    background: #66cc66;
+    color: white;
+}
+
+.warning{
+    background: #ff9933;
+    color: white;
+}
+
+.danger{
+    background: #ff6666;
+    color: white;
+}
