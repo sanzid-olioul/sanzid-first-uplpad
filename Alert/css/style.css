@@ -1,0 +1,48 @@
+body{
+    background: #cccccc;
+}
+i{
+    float: left;
+    margin-left: .5rem;
+}
+a{
+    color: white;
+}
+
+.align{
+    padding: 20px 10rem 20px 10rem;
+    justify-content: space-between;
+    display: flex;
+    position: relative;
+}
+a i:hover{
+    background: #00cccc;
+    background-size: 5rem;
+    border-radius: .5rem;
+}
+
+
+.contentbg{
+    background: #ffffff;
+    margin: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.green{
+    background: #00ccff;
+    color: white; 
+}
+
+.success{
+    background: #66cc66;
+    color: white;
+}
+
+.warning{
+    background: #ff9933;
+    color: white;
+}
+
+.danger{
+    background: #ff6666;
+    color: white;
+}
